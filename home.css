@@ -1,0 +1,9 @@
+ .videos{
+    text-align:center;
+    align-items: center;
+    justify-content: space-between;
+    /* padding:200px; */
+}
+.videos > iframe{
+    padding:20px;
+} 
